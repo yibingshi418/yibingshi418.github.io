@@ -1,15 +1,35 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I am a PhD candidate in Theoretical and Applied Linguistics at the University of Cambridge. My doctoral research investigates tone and tone sandhi in the Xiangshan variety of Northern Wu Chinese, combining detailed phonetic documentation with quantitative methods such as machine-learning–based clustering, and presented a diachronically-based theoretical model of tone sandhi in Xiangshan and other Northern Wu varieties. 
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+My broader research interests include:
+
+- Tone and tone sandhi
+- Prosodic phonology and intonation
+- Chinese dialectology, especially Wu varieties
+- Diachronic phonology and language variation
+- Quantitative and computational approaches in phonological research  
+
+
+
+I first encountered linguistics in my undergraduate studies at City University of Hong Kong, and quickly realised it was something I wanted to pursue long term. After completing my Bachelor’s degree there, I continued my training with a Master’s degree at the Chinese University of Hong Kong, where I deepened my interest in Chinese phonology and dialectology.
+
+I later moved to the University of Cambridge for postgraduate study, first completing an MPhil and then continuing into a PhD in Theoretical and Applied Linguistics. At Cambridge, my work has focused on documenting and analysing the tone and tone sandhi system of Xiangshan Northern Wu Chinese. 
+
+Across my work, I am particularly motivated by how surface tonal alternations reflect deeper prosodic organisation and longer-term historical trajectories, and by how methodological tools can help us better capture the complexity of suprasegmental features.
+
+Outside academic work, I enjoy journaling and keeping small, calming records of everyday life — habits that help me maintain balance and perspective alongside research.
+
+
+
+
 
 A data-driven personal website
 ======
