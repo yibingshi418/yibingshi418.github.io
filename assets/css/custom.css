@@ -1,7 +1,35 @@
+/* Global content (you already have something like this) */
 body, p, li, span, div {
   font-family: Georgia, "Times New Roman", serif !important;
 }
 
 h1, h2, h3, h4, h5, h6 {
+  font-family: Georgia, "Times New Roman", serif !important;
+}
+
+/* Navigation bar and site title */
+.site-title,
+.site-title a,
+.masthead__menu-item,
+.masthead__menu-item a {
+  font-family: Georgia, "Times New Roman", serif !important;
+}
+
+/* Sidebar author block */
+.author__name,
+.author__bio,
+.author__content,
+.author__urls,
+.author__urls li,
+.author__urls a {
+  font-family: Georgia, "Times New Roman", serif !important;
+}
+
+/* Page titles and metadata on each page */
+.page__title,
+.page__meta,
+.page__lead,
+.archive__item-title,
+.archive__item-excerpt {
   font-family: Georgia, "Times New Roman", serif !important;
 }
