@@ -1,6 +1,8 @@
 # Basic Site Settings
 locale      : "en-US"
 site_theme  : "default"
+custom_css:
+  - assets/css/custom.css
 title       : "About me"
 title_separator : "-"
 name        : &name "Yibing Shi"
