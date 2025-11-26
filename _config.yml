@@ -15,6 +15,7 @@ repository  : "yibingshi418/yibingshi418.github.io"
 author:
   avatar   : "yibing.JPG"
   name     : "Yibing Shi"
+  bio      : "Ph.D. at University of Cambridge"
   location : "Cambridge, U.K."
   employer : "University of Cambridge"
   email    : ""   # ← EMPTY so no mailto link will be created
