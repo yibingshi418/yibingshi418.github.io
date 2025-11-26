@@ -22,12 +22,13 @@ author:
 
 # Publication categories
 publication_category:
-  books:
-    title: "Books"
-  manuscripts:
-    title: "Journal Articles"
+  papers:
+    title: "Papers"
+  theses:
+    title: "Theses"
   conferences:
-    title: "Conference Papers"
+    title: "Presentations"
+
 
 # Site Settings
 breadcrumbs      : false
