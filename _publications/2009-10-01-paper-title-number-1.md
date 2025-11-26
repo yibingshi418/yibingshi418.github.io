@@ -1,6 +1,6 @@
 ---
 title: "Exploring the variations in disyllabic lexical tone sandhi in Xiangshan Chinese"
-collection: publications
+collection: papers
 permalink: /publication/shi-nolan-post-2024-speechprosody
 date: 2024-07-01   # any date is fine, used for ordering
 category: publications   # or: conferences, theses, etc.
