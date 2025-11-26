@@ -23,11 +23,11 @@ author:
 # Publication categories
 publication_category:
   papers:
-    title: "Papers"
+    title: "Conference proceedings"
   theses:
     title: "Theses"
   conferences:
-    title: "Presentations"
+    title: "Conferences & Presentations"
 
 
 # Site Settings
