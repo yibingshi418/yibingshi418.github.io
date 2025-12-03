@@ -18,7 +18,11 @@ author:
   bio      : "Ph.D. at University of Cambridge"
   location : "Cambridge, U.K."
   employer : "University of Cambridge"
-  email    : ""   # ← EMPTY so no mailto link will be created
+  email    : ""   
+
+  googlescholar : "https://scholar.google.com.hk/citations?user=QW5E7bIAAAAJ&hl=en&oi=sra"
+  linkedin      : "https://www.linkedin.com/in/yibing-shi-7b417115b/?originalSubdomain=uk"
+  github        : "https://github.com/yibingshi418"
 
 # Publication categories
 publication_category:
