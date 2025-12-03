@@ -7,6 +7,9 @@ redirect_from:
   - /about.html
 ---
 
+Email: <span>ys538@cam.ac.uk</span>
+
+
 I am a PhD candidate in **Theoretical and Applied Linguistics** at the **University of Cambridge**. My doctoral research investigates tone and tone sandhi in the Xiangshan variety of Northern Wu Chinese, combining detailed phonetic documentation with quantitative methods such as machine-learning–based clustering, and presented a diachronically-based theoretical model of tone sandhi in Xiangshan and other Northern Wu varieties. 
 
 My broader research interests include:
