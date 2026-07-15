@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in **Theoretical and Applied Linguistics** at the **University of Cambridge**. My doctoral research investigates tone and tone sandhi in the Xiangshan variety of Northern Wu Chinese, combining detailed phonetic documentation with quantitative methods such as machine-learning–based clustering, and presented a diachronically-based theoretical model of tone sandhi in Xiangshan and other Northern Wu varieties. 
+I recently received my Ph.D. degree in **Theoretical and Applied Linguistics** at the **University of Cambridge**. My doctoral research investigates tone and tone sandhi in the Xiangshan variety of Northern Wu Chinese, combining detailed phonetic documentation with quantitative methods such as machine-learning–based clustering, and presented a diachronically-based theoretical model of tone sandhi in Xiangshan and other Northern Wu varieties. 
 
 My broader research interests include:
 
